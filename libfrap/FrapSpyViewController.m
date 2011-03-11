@@ -36,10 +36,16 @@
 	
     [super viewDidLoad];
 	
+	UIFont *logFont = [UIFont fontWithName:@"Droid Sans Mono" size:11.0];
+	[frapLog setFont:logFont];
+	[logFont autorelease];
+	
 	logText = [[NSMutableString alloc] init];
 	[logText setString:@""];
 	[frapLog setText:logText];
 	[frapLog setNeedsDisplay];
+	[frapLog setBackgroundColor:[UIColor blackColor]];
+	[frapLog setTextColor:[UIColor whiteColor]];
 	
 	endpoint = [[FrapEndpoint alloc] initWithEndpointId:@"FRAPSpy" delegate:self];
 	if (![endpoint bindSockets:&error]) {

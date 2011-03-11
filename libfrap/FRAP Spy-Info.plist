@@ -20,5 +20,9 @@
 	<string>MainWindow_iPhone</string>
 	<key>Main nib file base name (iPad)</key>
 	<string>MainWindow_iPad</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>DroidSansMono.ttf</string>
+	</array>
 </dict>
 </plist>
