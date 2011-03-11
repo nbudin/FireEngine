@@ -63,6 +63,8 @@
 
 -(FrapMessage *)initWithSender:(NSString *)theSender {
 	sender = theSender;
+	[sender retain];
+	
 	return self;
 }
 
@@ -93,7 +95,8 @@
 	[fullMsg appendString:@"|"];
 	[fullMsg appendString:data];
 	
-	return [fullMsg dataUsingEncoding:NSASCIIStringEncoding];
+	NSData *encoded = [fullMsg dataUsingEncoding:NSASCIIStringEncoding];
+	return encoded;
 }
 
 -(NSString *)descriptionWithText:(NSString *)text {
@@ -133,7 +136,6 @@
 	args = [parser objectWithString:[data substringFromIndex:argsStart]];
 	
 	[parser release];
-	[data release];
 	
 	return self;
 }

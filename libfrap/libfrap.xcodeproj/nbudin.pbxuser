@@ -9,7 +9,6 @@
 			6644C31B13299EFA00B9FEBC /* FRAP Spy */,
 		);
 		breakpoints = (
-			6644C4911329B67E00B9FEBC /* FrapSpyViewController.m:60 */,
 			6644C56D132A928600B9FEBC /* FrapEndpoint.m:86 */,
 		);
 		codeSenseManager = 66FCAC86132801D2005368A5 /* Code sense */;
@@ -412,6 +411,19 @@
 			6644C5E9132A9B3000B9FEBC /* PBXTextBookmark */ = 6644C5E9132A9B3000B9FEBC /* PBXTextBookmark */;
 			6644C5EA132A9B3000B9FEBC /* PBXTextBookmark */ = 6644C5EA132A9B3000B9FEBC /* PBXTextBookmark */;
 			6644C5EB132A9B3000B9FEBC /* PBXTextBookmark */ = 6644C5EB132A9B3000B9FEBC /* PBXTextBookmark */;
+			6644C5F2132AC95300B9FEBC /* PBXTextBookmark */ = 6644C5F2132AC95300B9FEBC /* PBXTextBookmark */;
+			6644C5F5132ACA1C00B9FEBC /* PBXTextBookmark */ = 6644C5F5132ACA1C00B9FEBC /* PBXTextBookmark */;
+			6644C5F6132ACA1C00B9FEBC /* PBXTextBookmark */ = 6644C5F6132ACA1C00B9FEBC /* PBXTextBookmark */;
+			6644C5F8132ACA1C00B9FEBC /* PBXTextBookmark */ = 6644C5F8132ACA1C00B9FEBC /* PBXTextBookmark */;
+			6644C5FD132ACA5500B9FEBC /* PBXTextBookmark */ = 6644C5FD132ACA5500B9FEBC /* PBXTextBookmark */;
+			6644C5FE132ACA5500B9FEBC /* PBXTextBookmark */ = 6644C5FE132ACA5500B9FEBC /* PBXTextBookmark */;
+			6644C5FF132ACA5500B9FEBC /* PBXTextBookmark */ = 6644C5FF132ACA5500B9FEBC /* PBXTextBookmark */;
+			6644C600132ACA5500B9FEBC /* PBXTextBookmark */ = 6644C600132ACA5500B9FEBC /* PBXTextBookmark */;
+			6644C606132ACA8100B9FEBC /* PBXTextBookmark */ = 6644C606132ACA8100B9FEBC /* PBXTextBookmark */;
+			6644C607132ACA8100B9FEBC /* PBXTextBookmark */ = 6644C607132ACA8100B9FEBC /* PBXTextBookmark */;
+			6644C610132ACAE800B9FEBC /* PBXTextBookmark */ = 6644C610132ACAE800B9FEBC /* PBXTextBookmark */;
+			6644C611132ACAE800B9FEBC /* PBXTextBookmark */ = 6644C611132ACAE800B9FEBC /* PBXTextBookmark */;
+			6644C612132ACAE800B9FEBC /* PBXTextBookmark */ = 6644C612132ACAE800B9FEBC /* PBXTextBookmark */;
 			66FCAF371329573E005368A5 = 66FCAF371329573E005368A5 /* PBXTextBookmark */;
 			66FCAF5D13295AF5005368A5 = 66FCAF5D13295AF5005368A5 /* PBXTextBookmark */;
 			66FCB01F13297B34005368A5 = 66FCB01F13297B34005368A5 /* PBXBookmark */;
@@ -444,7 +456,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 151";
 		rLen = 0;
-		rLoc = 4571;
+		rLoc = 4602;
 		rType = 0;
 		vrLen = 1179;
 		vrLoc = 929;
@@ -525,7 +537,7 @@
 	};
 	6644C2B013299D0000B9FEBC /* AppDelegate_iPhone.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 1079}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1040}}";
 			sepNavSelRange = "{449, 0}";
 			sepNavVisRange = "{286, 335}";
 		};
@@ -833,7 +845,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 218";
 		rLen = 0;
-		rLoc = 6500;
+		rLoc = 6531;
 		rType = 0;
 		vrLen = 447;
 		vrLoc = 4682;
@@ -1003,7 +1015,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 218";
 		rLen = 0;
-		rLoc = 6500;
+		rLoc = 6531;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 4665;
@@ -1013,7 +1025,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 79";
 		rLen = 0;
-		rLoc = 2125;
+		rLoc = 2145;
 		rType = 0;
 		vrLen = 580;
 		vrLoc = 1853;
@@ -1023,7 +1035,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 79";
 		rLen = 0;
-		rLoc = 2125;
+		rLoc = 2145;
 		rType = 0;
 		vrLen = 425;
 		vrLoc = 0;
@@ -1268,7 +1280,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 79";
 		rLen = 0;
-		rLoc = 2125;
+		rLoc = 2145;
 		rType = 0;
 		vrLen = 425;
 		vrLoc = 0;
@@ -1278,7 +1290,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 70";
 		rLen = 0;
-		rLoc = 1847;
+		rLoc = 1867;
 		rType = 0;
 		vrLen = 386;
 		vrLoc = 1721;
@@ -1288,7 +1300,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 72";
 		rLen = 0;
-		rLoc = 1850;
+		rLoc = 1870;
 		rType = 0;
 		vrLen = 468;
 		vrLoc = 1721;
@@ -1367,7 +1379,7 @@
 		isa = PBXTextBookmark;
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		rLen = 0;
-		rLoc = 211;
+		rLoc = 213;
 		rType = 1;
 	};
 	6644C3F01329AB3D00B9FEBC /* PBXTextBookmark */ = {
@@ -1375,7 +1387,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 209";
 		rLen = 0;
-		rLoc = 5945;
+		rLoc = 5976;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 4626;
@@ -1395,7 +1407,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 177";
 		rLen = 0;
-		rLoc = 4944;
+		rLoc = 4975;
 		rType = 0;
 		vrLen = 316;
 		vrLoc = 3963;
@@ -1576,9 +1588,9 @@
 	};
 	6644C41B1329AF0300B9FEBC /* FrapSpyViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 1144}}";
-			sepNavSelRange = "{1459, 47}";
-			sepNavVisRange = "{1026, 596}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1196}}";
+			sepNavSelRange = "{1591, 0}";
+			sepNavVisRange = "{1456, 524}";
 		};
 	};
 	6644C41D1329AF3900B9FEBC /* PBXTextBookmark */ = {
@@ -2015,7 +2027,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 90";
 		rLen = 0;
-		rLoc = 2311;
+		rLoc = 2331;
 		rType = 0;
 		vrLen = 495;
 		vrLoc = 1974;
@@ -2218,24 +2230,6 @@
 		rType = 0;
 		vrLen = 489;
 		vrLoc = 1559;
-	};
-	6644C4911329B67E00B9FEBC /* FrapSpyViewController.m:60 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
-		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = 6644C41B1329AF0300B9FEBC /* FrapSpyViewController.m */;
-		functionName = "-didReceiveFrapMessage:";
-		hitCount = 2;
-		ignoreCount = 0;
-		lineNumber = 60;
-		location = "FRAP Spy";
-		modificationTime = 321559197.277246;
-		originalNumberOfMultipleMatches = 1;
-		state = 1;
 	};
 	6644C4951329B67F00B9FEBC /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -2712,7 +2706,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 208";
 		rLen = 0;
-		rLoc = 5890;
+		rLoc = 5921;
 		rType = 0;
 		vrLen = 286;
 		vrLoc = 4609;
@@ -2973,7 +2967,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 282;
+		rLoc = 284;
 		rType = 1;
 	};
 	6644C565132A921B00B9FEBC /* PBXTextBookmark */ = {
@@ -2981,7 +2975,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 275";
 		rLen = 0;
-		rLoc = 6442;
+		rLoc = 6473;
 		rType = 0;
 		vrLen = 341;
 		vrLoc = 6066;
@@ -3001,7 +2995,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 279";
 		rLen = 0;
-		rLoc = 6585;
+		rLoc = 6616;
 		rType = 0;
 		vrLen = 445;
 		vrLoc = 5965;
@@ -3050,7 +3044,7 @@
 		ignoreCount = 0;
 		lineNumber = 86;
 		location = "FRAP Spy";
-		modificationTime = 321559194.87632;
+		modificationTime = 321571448.548391;
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
@@ -3146,7 +3140,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 279";
 		rLen = 0;
-		rLoc = 6585;
+		rLoc = 6616;
 		rType = 0;
 		vrLen = 486;
 		vrLoc = 5924;
@@ -3246,7 +3240,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 275";
 		rLen = 0;
-		rLoc = 6442;
+		rLoc = 6473;
 		rType = 0;
 		vrLen = 341;
 		vrLoc = 6066;
@@ -3293,7 +3287,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 275";
 		rLen = 0;
-		rLoc = 6442;
+		rLoc = 6473;
 		rType = 0;
 		vrLen = 341;
 		vrLoc = 6066;
@@ -3303,7 +3297,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 283";
 		rLen = 0;
-		rLoc = 6442;
+		rLoc = 6473;
 		rType = 0;
 		vrLen = 292;
 		vrLoc = 6360;
@@ -3362,7 +3356,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 185";
 		rLen = 0;
-		rLoc = 4527;
+		rLoc = 4558;
 		rType = 0;
 		vrLen = 336;
 		vrLoc = 4753;
@@ -3395,9 +3389,9 @@
 	};
 	6644C5B9132A95FA00B9FEBC /* AsyncUdpSocket.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {894, 30576}}";
-			sepNavSelRange = "{63628, 0}";
-			sepNavVisRange = "{63694, 406}";
+			sepNavIntBoundsRect = "{{0, 0}, {894, 30901}}";
+			sepNavSelRange = "{66479, 0}";
+			sepNavVisRange = "{66106, 398}";
 		};
 	};
 	6644C5BB132A960000B9FEBC /* PBXTextBookmark */ = {
@@ -3577,7 +3571,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 185";
 		rLen = 0;
-		rLoc = 4527;
+		rLoc = 4558;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 5726;
@@ -3642,6 +3636,142 @@
 		vrLen = 475;
 		vrLoc = 1125;
 	};
+	6644C5F2132AC95300B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66FCAE10132833E4005368A5 /* FrapEndpoint.m */;
+		name = "FrapEndpoint.m: 19";
+		rLen = 0;
+		rLoc = 509;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 306;
+	};
+	6644C5F5132ACA1C00B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66FCAE10132833E4005368A5 /* FrapEndpoint.m */;
+		name = "FrapEndpoint.m: 19";
+		rLen = 0;
+		rLoc = 509;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 306;
+	};
+	6644C5F6132ACA1C00B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6644C5F7132ACA1C00B9FEBC /* FrapMessages.m */;
+		rLen = 0;
+		rLoc = 3481;
+		rType = 0;
+	};
+	6644C5F7132ACA1C00B9FEBC /* FrapMessages.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = FrapMessages.m;
+		path = /Users/nbudin/code/libfrap/libfrap/FrapMessages.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 3848}}";
+			sepNavSelRange = "{3481, 0}";
+			sepNavVisRange = "{3389, 199}";
+		};
+	};
+	6644C5F8132ACA1C00B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
+		name = "FrapMessages.m: 149";
+		rLen = 17;
+		rLoc = 3591;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 3500;
+	};
+	6644C5FD132ACA5500B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6644C41B1329AF0300B9FEBC /* FrapSpyViewController.m */;
+		name = "FrapSpyViewController.m: 60";
+		rLen = 0;
+		rLoc = 1591;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 1456;
+	};
+	6644C5FE132ACA5500B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66FCAE10132833E4005368A5 /* FrapEndpoint.m */;
+		name = "FrapEndpoint.m: 88";
+		rLen = 0;
+		rLoc = 2207;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 2040;
+	};
+	6644C5FF132ACA5500B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6644C5F7132ACA1C00B9FEBC /* FrapMessages.m */;
+		name = "FrapMessages.m: 60";
+		rLen = 11;
+		rLoc = 1692;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 1602;
+	};
+	6644C600132ACA5500B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6644C5F7132ACA1C00B9FEBC /* FrapMessages.m */;
+		name = "FrapMessages.m: 98";
+		rLen = 0;
+		rLoc = 2500;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 1891;
+	};
+	6644C606132ACA8100B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66FCAE10132833E4005368A5 /* FrapEndpoint.m */;
+		name = "FrapEndpoint.m: 19";
+		rLen = 0;
+		rLoc = 509;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 306;
+	};
+	6644C607132ACA8100B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6644C5F7132ACA1C00B9FEBC /* FrapMessages.m */;
+		name = "FrapMessages.m: 153";
+		rLen = 17;
+		rLoc = 3591;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 3707;
+	};
+	6644C610132ACAE800B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6644C5F7132ACA1C00B9FEBC /* FrapMessages.m */;
+		name = "FrapMessages.m: 98";
+		rLen = 0;
+		rLoc = 2500;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 1891;
+	};
+	6644C611132ACAE800B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66FCAE10132833E4005368A5 /* FrapEndpoint.m */;
+		rLen = 0;
+		rLoc = 85;
+		rType = 1;
+	};
+	6644C612132ACAE800B9FEBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 66FCAE10132833E4005368A5 /* FrapEndpoint.m */;
+		name = "FrapEndpoint.m: 86";
+		rLen = 0;
+		rLoc = 2114;
+		rType = 0;
+		vrLen = 480;
+		vrLoc = 1938;
+	};
 	66FCAC85132801D2005368A5 /* Source Control */ = {
 		isa = PBXSourceControlManager;
 		fallbackIsa = XCSourceControlManager;
@@ -3673,9 +3803,9 @@
 	};
 	66FCAD5813282050005368A5 /* FrapMessages.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {660, 3913}}";
-			sepNavSelRange = "{4527, 0}";
-			sepNavVisRange = "{5726, 368}";
+			sepNavIntBoundsRect = "{{0, 0}, {720, 3731}}";
+			sepNavSelRange = "{3560, 17}";
+			sepNavVisRange = "{3500, 380}";
 			sepNavWindowFrame = "{{61, 173}, {750, 558}}";
 		};
 	};
@@ -3714,9 +3844,9 @@
 	};
 	66FCAE10132833E4005368A5 /* FrapEndpoint.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {660, 1417}}";
-			sepNavSelRange = "{1538, 0}";
-			sepNavVisRange = "{1125, 475}";
+			sepNavIntBoundsRect = "{{0, 0}, {660, 1339}}";
+			sepNavSelRange = "{2114, 0}";
+			sepNavVisRange = "{1938, 480}";
 			sepNavWindowFrame = "{{163, 98}, {750, 558}}";
 		};
 	};
@@ -3841,7 +3971,7 @@
 		fRef = 66FCAD5813282050005368A5 /* FrapMessages.m */;
 		name = "FrapMessages.m: 151";
 		rLen = 0;
-		rLoc = 4571;
+		rLoc = 4602;
 		rType = 0;
 		vrLen = 1179;
 		vrLoc = 929;
